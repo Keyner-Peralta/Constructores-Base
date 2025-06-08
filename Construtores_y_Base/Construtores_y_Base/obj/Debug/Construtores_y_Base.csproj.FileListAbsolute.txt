@@ -1,0 +1,7 @@
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\bin\Debug\Construtores_y_Base.exe.config
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\bin\Debug\Construtores_y_Base.exe
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\bin\Debug\Construtores_y_Base.pdb
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\obj\Debug\Construtores_y_Base.csproj.AssemblyReference.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\obj\Debug\Construtores_y_Base.csproj.CoreCompileInputs.cache
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\obj\Debug\Construtores_y_Base.exe
+C:\Users\keyne\OneDrive\Escritorio\Programacion\Construtores_y_Base\Construtores_y_Base\obj\Debug\Construtores_y_Base.pdb
